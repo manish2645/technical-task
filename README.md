@@ -12,7 +12,7 @@ Frontend is written in vanillajs
 
 
 ```bash
-    git clone https://github.com/frenzycoder7/XenonStack_Technical_task.git
+    https://github.com/manish2645/technical-task.git
 ```
 After clone
 
@@ -54,4 +54,4 @@ this will generate a localhost url for this webpage
 ## Related
 
 For more help related code follow my org  
-[frenzycoders](https://github.com/frenzycoders)
+https://github.com/manish2645
